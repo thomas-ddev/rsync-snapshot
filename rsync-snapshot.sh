@@ -2,7 +2,7 @@
 
 # Variables permettant de changer la source et la destination de la sauvegarde
 SOURCE="/"
-DESTINATION="/var/www/backups/snapshots/"
+DESTINATION="/var/www/backups/snapshot/"
 PARENTDIR="/var/www/backups/"
 
 # Si le repertoire temporaire des snapshots n'existe pas, le creer
